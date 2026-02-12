@@ -1,8 +1,0 @@
-{
-  "name": "outlook-delegate",
-  "version": "1.0.0",
-  "description": "Outlook mail and calendar access via delegate permissions. Allows an AI assistant to access another user's mailbox and calendar as a delegate. Modified for delegate access from https://clawhub.ai/jotamed/outlook",
-  "author": "87marc",
-  "license": "MIT",
-  "keywords": ["outlook", "email", "calendar", "delegate", "microsoft365", "graph-api"]
-}
